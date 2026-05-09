@@ -62,3 +62,4 @@ Time is more visual than ever.
 [ ] アラーム音のカスタマイズ機能
 
 [ ] タスクトレイ（システムトレイ）への常駐機能
+<img width="536" height="777" alt="スクリーンショット 2026-05-09 170051" src="https://github.com/user-attachments/assets/b2e75496-1625-4ef3-b1ed-20fd920f1764" />
